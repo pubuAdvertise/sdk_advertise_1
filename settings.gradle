@@ -8,3 +8,4 @@ dependencyResolutionManagement {
 }
 rootProject.name = "advertise_sdk_android"
 include ':app'
+include ':Library'
